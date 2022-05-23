@@ -1,0 +1,4 @@
+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
+ssh key Created directory 'C:\Users\PATRICK/.ssh'.
+Agent pid 1335
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKg94//Ut1Yw/s8fEl/WQfO7fCbHxRIUVBS0WmFn3hQS ailapatrick@yahoo.com

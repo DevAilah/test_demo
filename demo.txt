@@ -12,3 +12,4 @@ Maurice Ochieng'
 
 Can we add some names if possible?
 Every member will now have a task to code each specific module.
+Started working on React And Laravel intergration.
